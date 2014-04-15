@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Will Jekyll be for me?"
+title: "What will Jekyll do for me?"
 description: ""
 category: 
 tags: []
